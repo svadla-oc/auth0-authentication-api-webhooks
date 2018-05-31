@@ -1,4 +1,5 @@
 {
+  "codeUrl": "https://raw.githubusercontent.com/svadla-oc/auth0-authentication-api-webhooks/master/index.js",
   "title": "OC Auth0 Authentication API webhooks",
   "name": "oc-auth0-authentication-api-webhooks",
   "version": "2.1.1",
